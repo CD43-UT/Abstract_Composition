@@ -28,6 +28,7 @@ body {
     height: 100px;
     background: linear-gradient(to top, white, black);
     margin-top: 20px;
+    align-cont
 }
 
 .el4 {
@@ -86,7 +87,10 @@ body {
     height: 300px;
     background: linear-gradient(to right, red, white);
     right: 100px;
-    bottom: 250px;
+    bottom: 250px; 
+    text-align:center;
+    align-content:center;
+    font-size:40px;
 }
 .el11 {
     position: relative; 
